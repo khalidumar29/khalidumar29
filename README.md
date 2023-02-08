@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on Flone E-commerce.
-- 🌱 I’m currently learning C#.
+- 🔭 I’m currently working on prayersconect.
+- 🌱 I’m currently learning java.
 - 👯 I’m looking to collaborate on visual studio live share.
 - 🤔 I’m looking for help with Next.js
 - 💬 Ask me about JavaScript.
