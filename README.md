@@ -1,7 +1,6 @@
-- 🔭 I’m currently working on prayersconect.
-- 🌱 I’m currently learning java.
+- 🔭 I’m currently working as a freelance software engineer.
+- 🌱 I’m currently learning Rust 🦀.
 - 👯 I’m looking to collaborate on visual studio live share.
-- 🤔 I’m looking for help with Next.js
 - 💬 Ask me about JavaScript.
 - 📫 How to reach me: email - khalid100umar@gmail.com
 - 😄 Pronouns: he/his.
